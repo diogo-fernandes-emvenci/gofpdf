@@ -63,6 +63,7 @@ const (
 )
 
 const (
+	PageSizeCustom = "Custom"
 	// PageSize2A0 represents DIN/ISO 2A0 page size
 	PageSize2A0 = "2A0"
 	// PageSizeA3 represents DIN/ISO A3 page size
